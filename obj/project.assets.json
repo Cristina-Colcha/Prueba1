@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Prueba1\\HolaMundoMVC.csproj",
-      "projectName": "HolaMundoMVC",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Prueba1\\HolaMundoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Prueba1\\OrdenarNumerosApp.csproj",
+      "projectName": "OrdenarNumerosApp",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Prueba1\\OrdenarNumerosApp.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Prueba1\\obj\\",
       "projectStyle": "PackageReference",
