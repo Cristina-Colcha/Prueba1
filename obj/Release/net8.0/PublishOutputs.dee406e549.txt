@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\GitHub\Prueba1\bin\Release\net8.0\publish\HolaMundoMVC.exe
+C:\Users\Usuario\Documents\GitHub\Prueba1\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Usuario\Documents\GitHub\Prueba1\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Usuario\Documents\GitHub\Prueba1\bin\Release\net8.0\publish\HolaMundoMVC.dll
+C:\Users\Usuario\Documents\GitHub\Prueba1\bin\Release\net8.0\publish\HolaMundoMVC.deps.json
+C:\Users\Usuario\Documents\GitHub\Prueba1\bin\Release\net8.0\publish\HolaMundoMVC.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\Prueba1\bin\Release\net8.0\publish\HolaMundoMVC.pdb
