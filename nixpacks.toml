@@ -1,0 +1,26 @@
+# nix packs.toml
+
+[phases.setup]
+nixPkgs = ['dotnet-sdk-7.0']
+
+[phases.build]
+commands = [
+  'dotnet restore',
+  'dotnet build --configuration Release'
+]
+
+[phases.start]
+commands = [
+  'dotnet run --configuration Release'
+]
+
+[env]
+ASPNETCORE_ENVIRONMENT = 'Production'
+
+[build]
+# Especifica el directorio de salida
+output = 'bin/Release/net7.0/publish'
+
+[deploy]
+# Configura el comando de despliegue
+command = 'dotnet yourapp.dll'
