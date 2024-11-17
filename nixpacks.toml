@@ -1,7 +1,7 @@
 # nix packs.toml
 
 [phases.setup]
-nixPkgs = ['dotnet-sdk-7.0']
+nixPkgs = ['dotnet-sdk-8.0']
 
 [phases.build]
 commands = [
