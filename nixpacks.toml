@@ -19,7 +19,7 @@ ASPNETCORE_ENVIRONMENT = 'Production'
 
 [build]
 # Especifica el directorio de salida
-output = 'bin/Release/net7.0/publish'
+output = 'bin/Release/net8.0/publish'
 
 [deploy]
 # Configura el comando de despliegue
